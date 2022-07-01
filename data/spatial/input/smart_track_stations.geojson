@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"name": "smart_track_stations_named",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32617" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 98001, "LABEL": "UNI", "station": "Union Station" }, "geometry": { "type": "Point", "coordinates": [ 630651.934794228989631, 4833659.521583749912679 ] } },
+{ "type": "Feature", "properties": { "ID": 98004, "LABEL": "DAN", "station": "Danforth GO" }, "geometry": { "type": "Point", "coordinates": [ 637014.0, 4838450.0 ] } },
+{ "type": "Feature", "properties": { "ID": 98006, "LABEL": "SCR", "station": "Scarborough GO" }, "geometry": { "type": "Point", "coordinates": [ 640566.853154868120328, 4841931.232832359150052 ] } },
+{ "type": "Feature", "properties": { "ID": 98028, "LABEL": "SPAD", "station": "Spadina GO" }, "geometry": { "type": "Point", "coordinates": [ 629539.791502348030917, 4833329.182933510281146 ] } },
+{ "type": "Feature", "properties": { "ID": 98054, "LABEL": "KENN", "station": "Kennedy GO" }, "geometry": { "type": "Point", "coordinates": [ 639967.0, 4843548.0 ] } },
+{ "type": "Feature", "properties": { "ID": 98055, "LABEL": "AGN", "station": "Agincourt GO" }, "geometry": { "type": "Point", "coordinates": [ 638109.0, 4849438.0 ] } },
+{ "type": "Feature", "properties": { "ID": 98056, "LABEL": "MLK", "station": "Milliken GO" }, "geometry": { "type": "Point", "coordinates": [ 636505.393668615026399, 4853781.64811880979687 ] } },
+{ "type": "Feature", "properties": { "ID": 98058, "LABEL": "UNV", "station": "Unionville GO" }, "geometry": { "type": "Point", "coordinates": [ 635454.290268471813761, 4856825.946260880678892 ] } },
+{ "type": "Feature", "properties": { "ID": 98062, "LABEL": "LANS", "station": "Lansdowne GO" }, "geometry": { "type": "Point", "coordinates": [ 625792.169955056975596, 4833958.796062150038779 ] } },
+{ "type": "Feature", "properties": { "ID": 98112, "LABEL": "BLR", "station": "Bloor GO" }, "geometry": { "type": "Point", "coordinates": [ 624968.0, 4834976.0 ] } },
+{ "type": "Feature", "properties": { "ID": 98176, "LABEL": "GERR", "station": "Gerrard GO" }, "geometry": { "type": "Point", "coordinates": [ 633991.224725437001325, 4836713.330215740017593 ] } },
+{ "type": "Feature", "properties": { "ID": 98177, "LABEL": "QUEE", "station": "Queen Street GO" }, "geometry": { "type": "Point", "coordinates": [ 633397.735637172008865, 4835577.040990390814841 ] } },
+{ "type": "Feature", "properties": { "ID": 98178, "LABEL": "UNIL", "station": "East Harbour GO" }, "geometry": { "type": "Point", "coordinates": [ 633290.029039224958979, 4834936.163797218352556 ] } },
+{ "type": "Feature", "properties": { "ID": 98179, "LABEL": "LAWE", "station": "Lawrence East GO" }, "geometry": { "type": "Point", "coordinates": [ 639280.327892844099551, 4845726.19113973993808 ] } },
+{ "type": "Feature", "properties": { "ID": 98180, "LABEL": "ELLE", "station": "Ellesmere GO" }, "geometry": { "type": "Point", "coordinates": [ 638765.205618647974916, 4847368.131171880289912 ] } },
+{ "type": "Feature", "properties": { "ID": 98181, "LABEL": "FINC", "station": "Finch GO" }, "geometry": { "type": "Point", "coordinates": [ 637366.513451440143399, 4851449.018944160081446 ] } },
+{ "type": "Feature", "properties": { "ID": 98182, "LABEL": "14TH", "station": "14th Avenue GO" }, "geometry": { "type": "Point", "coordinates": [ 635465.579441120964475, 4855535.502479251474142 ] } },
+{ "type": "Feature", "properties": { "ID": 98183, "LABEL": "LIBV", "station": "Liberty Village GO" }, "geometry": { "type": "Point", "coordinates": [ 627065.203976493910886, 4833203.689161819405854 ] } },
+{ "type": "Feature", "properties": { "ID": 98184, "LABEL": "STCL", "station": "St. Clair GO" }, "geometry": { "type": "Point", "coordinates": [ 623647.884934148052707, 4836765.34593911934644 ] } },
+{ "type": "Feature", "properties": { "ID": 98185, "LABEL": "MTDE", "station": "Mount Dennis GO" }, "geometry": { "type": "Point", "coordinates": [ 621905.862285596202128, 4838301.611491370014846 ] } },
+{ "type": "Feature", "properties": { "ID": 98186, "LABEL": "SCAR", "station": "Scarlett" }, "geometry": { "type": "Point", "coordinates": [ 619875.608450256986544, 4837886.473860429599881 ] } },
+{ "type": "Feature", "properties": { "ID": 98187, "LABEL": "ISLI", "station": "Eglinton\/Kipling" }, "geometry": { "type": "Point", "coordinates": [ 616733.073478206875734, 4837089.656799010001123 ] } },
+{ "type": "Feature", "properties": { "ID": 98188, "LABEL": "ACC", "station": "Renforth" }, "geometry": { "type": "Point", "coordinates": [ 613453.618061713059433, 4835611.326857549138367 ] } },
+{ "type": "Feature", "properties": { "ID": 98207, "LABEL": "MATH", "station": "Matheson" }, "geometry": { "type": "Point", "coordinates": [ 612625.780598273733631, 4834775.794979080557823 ] } }
+]
+}
