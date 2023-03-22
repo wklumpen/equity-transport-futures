@@ -1,0 +1,10 @@
+name: etf
+
+channels:
+    - conda-forge
+
+dependencies:
+    - python=3.10
+    - pandas
+    - altair
+    - scipy
